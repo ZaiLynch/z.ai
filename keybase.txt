@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/zai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://z.ai
+  * I am zai (https://keybase.io/zai) on keybase.
+  * I have a public key with fingerprint E8C8 EC2A 9F8F 2A06 44EA  F545 32EA B05F 8AC0 8D1E
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e8c8ec2a9f8f2a0644eaf54532eab05f8ac08d1e",
+            "host": "keybase.io",
+            "key_id": "32eab05f8ac08d1e",
+            "kid": "010120f2b952d232c9a43dc4cf4cadfb2af0bbafed08923ce24147767e10933154be0a",
+            "uid": "4cca635e42b474d9ee4df0348686f000",
+            "username": "zai"
+        },
+        "service": {
+            "hostname": "z.ai",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1422789052,
+    "expire_in": 157680000,
+    "prev": "29ba63ac1877798919404c70230d2ea438896469bf62500f3d6c5b0c579c2bf1",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owFtUltIVEEY3s3adDG6iERalhMVrZvMmTPntlFERfRgRlg9VLTNmTPHPZnnbLur
+prZG0M3CspCgC0ElRBEldLFMSKF6yCjoIUUyzCK1tDKiICqbI/XW0zDf/33f/3//
+TP2kFI/fi943hQ+31eV4O9ol3bP+adqraqA7RiUIVYMSNnaYll3MYtGYZSdACDCV
+qowiopmqiQiUMWbElLAkIkZ0KJkqoVA1BAaCIOLEXQW30Umc5VsOx/glbBkc/Q+/
+ZKwABSggaCJdk5CBREQ1gkWDYmpiSgxTR8SEuk5MZkBVQyJlCAtYUWSFCVATRUHC
+OoOE25WN2WFKiSxKDCMdK9jQGMOGCUWsyqpsQghdYpzFbFLKOLuKWCAZBBwotyhz
+07sh/hXzeTUIojEn4VBnB0ciiUQ0HnIVicqoS6lgevivOKxbtsFXxxXlLBa3HBuE
+BM6kCct1EzBCiqpBCQUB2xW1YixsuQxJkVU+FnT7sHJuiTSdByBUUBVF0VRN0DDE
+VIFIhAbfIRZVVZOxrOmmjCQITdGQqaRDKikaRbopADfOTtsBIYmPSYq5Zdwqtkmi
+LMZA0l/rnTne4/V7fBPGua/v8adN+fcnNu2bOLqi+9mNg5+nL4z9+DrPbOrd3Zy7
+PTNncluzR+ocvhe4O7Jp+qy3QxmnzleRRQMvWjYU2dOKBo/Of9g/+XlgS2bL1K6s
+M76MnqXC2ozSG69TRz4cyRu96ANDpc8WT/j1jvSNrvSffVPo62wN9E0MHuv+XTNA
+btHmAz+VE103l7+c7as53bp1e2BNo1CoOjmNvdk9S/LW1d9e1nTh95NHqwYj+09d
+fpeb3Z+Wf//j6tQLUfSx49WaA9mR46tbh8+ePJe69sG4S8lrDXX3flXsT1lwaLCz
+V/l+xf9pRvJb4Zer4Hrkzp6+zRtngCXdBWm+9Gvb3t4feT63/XFtZdZIQbqw90vD
+rjl21h8=
+=9Oev
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zai
+
+==================================================================
+

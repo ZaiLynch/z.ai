@@ -1,3 +1,6 @@
+2023-09-28 (2d) BruCON (BE, Mechelen)
+2023-09-15 (1d) BSides Frankfurt (DE, Frankfurt)
+2023-09-01 (3d) MRMCD (DE, Darmstadt)
 2023-06-08 (4d) GPN21 (DE, Karlsruhe)
 2023-05-18 (1d) German OWASP Day (DE, Frankfurt)
 2023-05-11 (2d) RuhrSec (DE, Bochum)
